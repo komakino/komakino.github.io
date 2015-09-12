@@ -11,18 +11,17 @@ url:
 owner:
   name:           Salem Sallnäs
   avatar:         avatar.jpg
-  bio:            "Dev, semi-nerd, quasi-geek, somewhat foodie"
+  bio:            "Dev, semi-nerd, quasi-geek, somewhat foodie and a couple of other things."
   email:          salem@komakino.se
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        komackino
-  facebook:       salem.sallnas
+  # twitter:        komackino
+  # facebook:       salem.sallnas
   github:         komakino
-  stackexchange:
+  # stackexchange:
   linkedin:       salemsallnas
-  instagram:      komackino
-  flickr:
-  tumblr:
-  # google plus id, include the '+', eg +mmistakes
+  # instagram:      komackino
+  # flickr:
+  # tumblr:
   google_plus:    +salemsallnas
 
 # Background image to be tiled on all pages
