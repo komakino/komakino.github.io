@@ -3,7 +3,7 @@ layout: post
 title: The perfect media center
 description: "Just thougth I'd share my experience with setting up the perfect media center environment."
 modified: 2015-09-12
-tags: [tech kodi ]
+tags: [tech,kodi]
 #image:
 #  feature: abstract-3.jpg
 #  credit: dargadgetz
